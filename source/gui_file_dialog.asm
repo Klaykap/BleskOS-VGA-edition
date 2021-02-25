@@ -133,7 +133,7 @@ file_dialog_save:
   ENDIF key_down
 
   IF ah, KEY_ENTER, key_enter
-   PRINT 23, 1, name_str, 'Type name(lenght 16 chars): '
+   PRINT 23, 1, name_str, 'Type name(length 16 chars): '
    SET_CURSOR 23, 29
    SHOW_CURSOR
 
