@@ -10,10 +10,10 @@ main_screen:
  DRAW_COLUMN 0, 0, 25, 0x40
  DRAW_COLUMN 0, 79, 25, 0x40
 
- PRINT 2, 2, str_up, 'Welcome in BleskOS'
+ PRINT 2, 2, str_up, 'Welcome to BleskOS'
  PRINT 4, 2, str_you_can, 'You can open programs with keyboard:'
  PRINT 6, 2, str_te, '[a] Text editor'
- PRINT 22, 2, str_down, 'You can shutdown computer with press power button'
+ PRINT 22, 2, str_down, 'You can shutdown computer by pressing power button'
 
  halt:
   WAIT_FOR_KEYBOARD
