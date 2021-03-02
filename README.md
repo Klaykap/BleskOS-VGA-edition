@@ -9,9 +9,11 @@ This version contains drivers:
 * PS/2 mouse
 * Easy filesystem for USB and hard disk
 
-And contain this programs:
+And contain these programs:
 * Text editor
 * Graphic editor
+* Sound editor
+* Calculator
 
 ## Is it working on real computer?
 Yes!
